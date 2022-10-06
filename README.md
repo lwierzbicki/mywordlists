@@ -1,0 +1,2 @@
+# wordlist
+Collection of wordlists
