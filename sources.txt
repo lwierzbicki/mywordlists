@@ -1,0 +1,7 @@
+default Kali wordlists /usr/share/wordlists/
+https://github.com/Karanxa/Bug-Bounty-Wordlists
+https://github.com/xajkep/wordlists
+https://github.com/danielmiessler/SecLists
+https://github.com/n0kovo/n0kovo_subdomains
+https://github.com/kkrypt0nn/wordlists
+https://github.com/trickest/wordlists
