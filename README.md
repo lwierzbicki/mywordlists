@@ -9,6 +9,7 @@ Structure:
 - attacks - payloads for triggering weaknesses
 - enumeration - identifying endpoints, most popular endpoints
 - general - general usage wordlists, common words
+- testfile - general test files
 - passwords - most common passwords
 - usernames - most common usernames
 - webshell - most common webshells
@@ -16,3 +17,4 @@ Structure:
 Convention for easy to change parameters:
 
 {SERVER} - defines a server by IP/name like example.com
+{FILE}  - defines filename
