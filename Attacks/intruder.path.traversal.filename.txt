@@ -1,5 +1,0 @@
-/etc/issue
-/etc/passwd
-/etc/hostname
-/boot.ini
-/windows/system32/drivers/etc/hosts
