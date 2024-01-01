@@ -6,7 +6,6 @@ Wordlist which can be useful during the testing.
 
 Structure:
 - attacks - payloads for triggering weaknesses
-- webdiscovery - identifying endpoints, most popular endpoints
 - general - general usage wordlists, common words
 - testfile - general test files
 - passwords - most common passwords
